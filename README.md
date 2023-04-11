@@ -6,6 +6,9 @@
 
 ![Calculator](calculator.jpg)
 
+### But I made it look like:
+![Pretty Calculator](pretty_calculator.png)
+
 ### How to submit your code for review:
 
 - Fork and clone this repo
